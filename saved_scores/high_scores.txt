@@ -1,0 +1,8 @@
+Vasya 1
+Anton 1
+Masha 1
+Anton 2
+Anton 7
+Anton 3
+Anton 4
+123 1
